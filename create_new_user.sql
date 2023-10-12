@@ -9,10 +9,10 @@ GRANT dba TO badhon;
 
 connect badhon
 password :*******
---hrer the password is badhon .. (you can use any kinna password) 
+--here the password is badhon .. (you can use any kinda password) 
 
 disconnect
 --for disconnecting from connected user;
 
---now lets create 'hr' user and connceted with hy by usinf above provess
+--now lets create 'hr' user and connceted with hr by using above process
 
